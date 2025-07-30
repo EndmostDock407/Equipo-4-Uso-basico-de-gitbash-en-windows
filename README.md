@@ -1,6 +1,6 @@
 # Uso Basico de Git Bash en Windows
 
-_En ese proiyecto aprenderemos todo loesencial para utilizar GitBash en Windows._ 
+_En ese proiyecto aprenderemos todo lo esencial para utilizar GitBash en Windows._ 
 
 ## Comenzando 🚀
 
@@ -38,4 +38,14 @@ Para una mayor eficiencia de trabajo, se recomienda ejecutarlo directamente dent
 3- Seleccione la opción: “Open Git Bash here”.
 4- Su ventana de Git Bash ya debería estar abierta y lista para usar.
 ```
+
+### Autores 
+- Ana Laura Diaz
+- Fernando Romero  
+- Luis Angel Medina
+- Arturo
+
+### Version
+Version No.1 del proyecto. 
+
 
